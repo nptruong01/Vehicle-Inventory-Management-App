@@ -1,12 +1,10 @@
 # Car Inventory Management
 
 This is a simple car inventory management application built using Java Swing. The application allows users to perform basic operations such as adding, editing, deleting, and searching for information about cars in the inventory.
-## Demo
-## Demo
-<div align="center">
-  <iframe width="560" height="315" src="https://github.com/nptruong01/Vehicle-Inventory-Management-App/assets/113322089/022cc555-649e-4f40-bf01-a1e366c286c3" frameborder="0" allowfullscreen></iframe>
-</div>
 
+## Demo
+
+https://github.com/nptruong01/Vehicle-Inventory-Management-App/assets/113322089/022cc555-649e-4f40-bf01-a1e366c286c3
 
 ## Installation
 
