@@ -9,7 +9,7 @@ This is a simple car inventory management application built using Java Swing. Th
 - Java Development Kit (JDK) 8 or above.
 - NetBeanIDE 8.2 or above.
 
-## Usage
+## Function
 
 Once the application is running, the user interface will display with the following options:
 
